@@ -1,0 +1,19 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "vue.jsの練習",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GODZlLLA/Vue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GODZlLLA/Vue/issues"
+  },
+  "homepage": "https://github.com/GODZlLLA/Vue#readme"
+}
